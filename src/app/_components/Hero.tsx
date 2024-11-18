@@ -43,7 +43,7 @@ const HeroSection = () => {
             <h2>Jasmine Sheikh</h2>
             <span ref={typedRef}> </span>
             <p>
-              Im a Web Developer with extensive experience in both Frontend and Backend development I specialize in creating and designing dynamic responsive websites that deliver an exceptional user experience
+              Im a Web Developer with extensive experience both Frontend and Backend development I specialize in creating and designing dynamic responsive websites that deliver an exceptional user experience
             </p>
           </div>
 
