@@ -35,6 +35,7 @@ section {
   box-shadow: 0 4px 6px #bc1b68;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   object-fit: cover; 
+  margin-top: 14px;
 }
 
 @media (min-width: 768px) {
@@ -106,7 +107,11 @@ section {
   .info-box p {
     text-align: left;
     max-width: 700px;
-    
+  }
+    p{
+  font-size: 20px;
+  padding: 10px;
+
   }
 }
 
