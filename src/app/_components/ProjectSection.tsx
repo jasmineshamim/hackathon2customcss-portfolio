@@ -106,7 +106,7 @@ const ProjectSection = () => {
         <div className="project-card">
           {/* Image Section */}
           <div className="img">
-          <Link href='https://my-hackathon-project-milestone05.vercel.app/' target='_blank'>
+          <Link href='https://mileston5-eight.vercel.app/' target='_blank'>
             <Image
             src='/images/moCup4.png'
             alt='Project1'
@@ -120,7 +120,7 @@ const ProjectSection = () => {
           <p>Create a professional customizable resume with ease using our Shareable Resume Builder</p>
           <div className="btn-group">
           <div className="btn">
-              <Link href='https://my-hackathon-project-milestone05.vercel.app/' target='_blank'>Go To Live</Link>
+              <Link href='https://mileston5-eight.vercel.app/' target='_blank'>Go To Live</Link>
             </div>
     
           </div>
@@ -130,7 +130,7 @@ const ProjectSection = () => {
         <div className="project-card">
           {/* Image Section */}
           <div className="img">
-          <Link href='https://my-hackathon-project-milestone12.vercel.app/' target='_blank'>
+          <Link href='https://hackathon-1-updated-resume-builder-uqqk.vercel.app/' target='_blank'>
             <Image
             src='/images/moCup5.png'
             alt='Project1'
@@ -144,7 +144,7 @@ const ProjectSection = () => {
           <p>A static visually appealing resume showcasing your skills and achievements in a clean layout</p>
           <div className="btn-group">
           <div className="btn">
-              <Link href='https://my-hackathon-project-milestone12.vercel.app/' target='_blank'>Go To Live</Link>
+              <Link href='https://hackathon-1-updated-resume-builder-uqqk.vercel.app/' target='_blank'>Go To Live</Link>
             </div>
           </div>
           
