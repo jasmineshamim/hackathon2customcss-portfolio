@@ -14,8 +14,8 @@
 }
 
 .image {
-    width: 16rem;
-    height: 16rem;
+    width: 230px;
+    height: 230px;
     border-radius: 50%;
     box-shadow: 0 4px 6px #bc1b68;
     object-fit: cover; 
